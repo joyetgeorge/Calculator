@@ -9,7 +9,7 @@ Feel free to contribute and report issues.
 #### Images
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/joyetgeorge/Calculator/master/img/project1.png" width="250">
+   <img src="https://raw.githubusercontent.com/joyetgeorge/Calculator/master/img/project3.png" width="250">
    <img src="https://raw.githubusercontent.com/joyetgeorge/Calculator/master/img/project2.png" width="250">
    <img src="https://raw.githubusercontent.com/joyetgeorge/Calculator/master/img/project4.png" width="250">
 </p>
