@@ -8,7 +8,7 @@ Feel free to contribute and report issues.
 
 Put this in the Module Dependencies - compile 'org.mozilla:rhino:1.7R4'
 
-### Images
+<p align="center">### Images </p>
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/joyetgeorge/Calculator/master/img/project3.png" width="250">
