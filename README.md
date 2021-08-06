@@ -4,7 +4,7 @@ Calculator is a simple calculator app which will perform all basic operations. T
 
 Feel free to contribute and report issues.
 
-##Dependencies
+## Dependencies
 
 Put this in the Module Dependencies - compile 'org.mozilla:rhino:1.7R4'
 
