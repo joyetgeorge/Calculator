@@ -23,5 +23,5 @@ FlashLight is an Open-Source minimal flashlight app that does not require any ad
 
 | image 1      | image 2      | image 3      |
 |-------------|-------------|-------------|
- <img src="https://raw.githubusercontent.com/joyetgeorge/Calculator/master/img/project1.png" width="250"> | <img src="https://raw.githubusercontent.com/joyetgeorge/Calculator/master/img/project2.png" width="250"> |  <img src="https://raw.githubusercontent.com/joyetgeorge/Calculator/master/img/project3.png" width="250"> |
+ <img src="https://raw.githubusercontent.com/joyetgeorge/Calculator/master/img/project1.png" width="250"> | <img src="https://raw.githubusercontent.com/joyetgeorge/Calculator/master/img/project2.png" width="250"> |  <img src="https://raw.githubusercontent.com/joyetgeorge/Calculator/master/img/project4.png" width="250"> |
 
