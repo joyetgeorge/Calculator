@@ -9,6 +9,7 @@ Feel free to contribute and report issues.
 Put this in the Module Dependencies - compile 'org.mozilla:rhino:1.7R4'
 
 <p>Visit their GitHub repository - <a href="https://github.com/mozilla/rhino" target="_blank">https://github.com/mozilla/rhino</a>
+<p>Visit their GitHub repository - <a href="https://github.com/brionmario/rhino-library-android" target="_blank">https://github.com/brionmario/rhino-library-android</a>
 
 ### Images
 
