@@ -8,6 +8,8 @@ Feel free to contribute and report issues.
 
 Put this in the Module Dependencies - compile 'org.mozilla:rhino:1.7R4'
 
+<p>Visit their GitHub repository - <a href="https://github.com/mozilla/rhino" target="_blank">https://github.com/mozilla/rhino</a>
+
 ### Images
 
 <p align="center">
